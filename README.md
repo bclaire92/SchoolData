@@ -11,8 +11,11 @@ This project analyzes student performance using various attributes to identify t
 ## Technologies Used
 - Python
 - Jupyter Notebook
-- Pandas
-- Matplotlib/Seaborn
+- Pandas (Data manipulation and analysis)
+- Matplotlib/Seaborn (Data visualization)
+- numpy (Numerical computations)
+- scipy.stats (Statistical analysis)
+- sklearn (Machine learning and model evaluation)
 
 ## How to Run
 1. Clone the repository:
