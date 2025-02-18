@@ -16,6 +16,10 @@ This project analyzes student performance using various attributes to identify t
 - numpy (Numerical computations)
 - scipy.stats (Statistical analysis)
 - sklearn (Machine learning and model evaluation)
+- Statsmodels (statistical modeling and hypothesis testing):
+statsmodels.api for general statistical models and analysis,
+statsmodels.formula.api.ols for Ordinary Least Squares (OLS) regression modeling, and
+statsmodels.stats.multicomp for multiple comparisons testing and statistical summaries.
 
 ## How to Run
 1. Clone the repository:
