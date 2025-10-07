@@ -68,7 +68,9 @@ statsmodels.stats.multicomp for multiple comparisons testing and statistical sum
 # Author
 
 Ekele A. Babrah
+
 Financial & Business Data Scientist
+
 📧 ekelebabrah@gmail.com
  | 🌐 GitHub
 
