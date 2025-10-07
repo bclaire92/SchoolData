@@ -48,11 +48,11 @@ statsmodels.stats.multicomp for multiple comparisons testing and statistical sum
 
 [Add Looker Studio link here once dashboard is created]
 
-🚀 Future Improvements
+# Future Improvements
 -Develop a regression model to predict student scores.
 -Expand dataset to include socioeconomic and school-related variables.
 
-👩🏽‍💻 Author
+# Author
 
 Ekele A. Babrah
 Financial & Business Data Scientist
