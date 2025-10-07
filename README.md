@@ -2,6 +2,7 @@
 🧠 Project Overview
 
 This project analyzes student academic performance data to uncover how gender, parental education and marital status, and study hours influence math, reading, and writing scores.
+
 🎯 Objectives
 
 To identify demographic and behavioral factors affecting student performance.
