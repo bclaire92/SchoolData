@@ -9,7 +9,7 @@ This project analyzes student academic performance data to uncover how gender, p
 -To explore correlations between study habits and scores.
 -To generate actionable insights for educators.
 
-# Dataset Description
+## Dataset Description
 Contains 1,000+ records with attributes such as:
 
 -Gender
