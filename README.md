@@ -47,23 +47,35 @@ statsmodels.stats.multicomp for multiple comparisons testing and statistical sum
 
 -Used correlation analysis to evaluate relationships.
 
--Visualized results in Power BI / Looker Studio.
+-Visualized results in Looker Studio.
 
 # Key Insights
+-Females achieved a higher overall pass rate than males.
+
 -Males performed better in Math, females in Reading and Writing.
 
 -Higher parental education strongly correlated with better scores.
 
--Students studying 10+ hours weekly scored significantly higher overall.
+-Study hours positively influence academic performance especially in maths.
 
-# Dashboard Link
-
-[Add Looker Studio link here once dashboard is created]
 
 # Future Improvements
 -Develop a regression model to predict student scores.
 
 -Expand dataset to include socioeconomic and school-related variables.
+
+
+
+## 🎛️ Dashboard Visualization
+
+To complement this analysis, I built an interactive dashboard using **Google Looker Studio**.
+
+This dashboard highlights how **gender, parental education, marital status, and study habits** influence student performance.
+
+[Student Performance Dashboard(student_performance_dashboard.png)
+
+👉 View the Live Dashboard on Looker Studio(https://lookerstudio.google.com/reporting/b6eb3556-ae18-47d3-8139-e7698585906c)
+
 
 # Author
 
@@ -81,19 +93,4 @@ Financial & Business Data Scientist
    git clone https://github.com/bclaire92/SchoolData.git
 
 
-   ## 🎛️ Dashboard Visualization
-
-To complement the data analysis, I built an interactive dashboard using **Google Looker Studio**.
-
-This dashboard highlights how **gender, parental education, marital status, and study habits** influence student performance.
-
-[Student Performance Dashboard(student_performance_dashboard.png)
-
-👉 View the Live Dashboard on Looker Studio(https://lookerstudio.google.com/reporting/b6eb3556-ae18-47d3-8139-e7698585906c)
-
-### Key Highlights:
-- Females achieved a higher overall **pass rate** than males.
-- Males outperformed in **Math**, while females excelled in **Reading** and **Writing**.
-- **Higher parental education** strongly correlates with better scores.
-- **Study hours** positively influence academic performance.
-
+   
