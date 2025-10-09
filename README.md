@@ -79,3 +79,21 @@ Financial & Business Data Scientist
 1. Clone the repository:
    ```bash
    git clone https://github.com/bclaire92/SchoolData.git
+
+
+   ## 🎛️ Dashboard Visualization
+
+To complement the data analysis, I built an interactive dashboard using **Google Looker Studio**.
+
+This dashboard highlights how **gender, parental education, marital status, and study habits** influence student performance.
+
+[Student Performance Dashboard(student_performance_dashboard.png)
+
+👉 View the Live Dashboard on Looker Studio(https://lookerstudio.google.com/reporting/b6eb3556-ae18-47d3-8139-e7698585906c)
+
+### Key Highlights:
+- Females achieved a higher overall **pass rate** than males.
+- Males outperformed in **Math**, while females excelled in **Reading** and **Writing**.
+- **Higher parental education** strongly correlates with better scores.
+- **Study hours** positively influence academic performance.
+
