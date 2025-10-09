@@ -72,7 +72,7 @@ To complement this analysis, I built an interactive dashboard using **Google Loo
 
 This dashboard highlights how **gender, parental education, marital status, and study habits** influence student performance.
 
-[Student Performance Dashboard(https://github.com/bclaire92/SchoolData/blob/main/student%20performance%20dashboard.jpg?raw=true)
+![Student Performance Dashboard](https://github.com/bclaire92/SchoolData/blob/main/student%20performance%20dashboard.jpg?raw=true)
 
 👉 View the Live Dashboard on Looker Studio(https://lookerstudio.google.com/reporting/b6eb3556-ae18-47d3-8139-e7698585906c)
 
